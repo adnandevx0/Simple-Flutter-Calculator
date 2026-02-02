@@ -1,4 +1,4 @@
-# tom1
+# Simple-Flutter-Calculator
 
 A new Flutter project.
 
